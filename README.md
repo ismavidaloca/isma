@@ -1,10 +1,15 @@
-# ismael narciso junior 
+# *boas vindas ao meu perfil* 
+ 
+meu nome é Ismael 
 
-- tenho 17 anos
-- moro:bairro do rocio , rua gabriel de lara
-- sonho em ser um programador bem sucedido
+-Estou me desenvolvendo na linguagem JavaScript
+
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+*Você pode entrar em contato comigo* 📫
+
+ismaelnarciso34@gmail.com
 
 [Alura]()
 
 ![]( [)
-0https://images.app.goo.gl/J87zbV5PFP6CELtt7
