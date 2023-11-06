@@ -12,5 +12,5 @@ ismaelnarciso34@gmail.com
 
 [Alura](https://www.alura.com.br/)
 
-![](https://tenor.com/pt-BR/view/galaxy-universe-gif-26677854.gif)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fpt%2F1vf8&psig=AOvVaw0Wjf0_1UfrhtH26VssnJ2G&ust=1699368277631000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqGAoTCNif86bOr4IDFQAAAAAdAAAAABDXAg.gif)
 
